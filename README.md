@@ -1,0 +1,1 @@
+A lightweight SFML-based game loop implementation that highlights best practices in modern C++ (C++17/20), including smart pointers, RAII, and clean architecture. Ideal for learning or as a portfolio reference
